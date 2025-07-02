@@ -109,8 +109,8 @@ Este proyecto ejecuta, de forma **100 % automatizada**, el flujo mensual de cál
     "excel": "ComisionesCalculadas.xlsx"
   },
   "report": {
-    "to": "finanzas@example.com",
-    "subject": "Comisiones Calculadas",
+    "to": "lilianaacoval@gmail.com",
+    "subject": "Liliana - Comisiones Calculadas",
     "body_html": "Adjunto reporte de comisiones mensuales.<br>Saludos."
   }
 }
@@ -207,11 +207,4 @@ pipeline {
 | Añadir tests unitarios con **pytest** y cobertura en el pipeline | Calidad de código                              |
 | Incluir **alertas Slack** tras cada ejecución                    | visibilidad del proceso DataOps                |
 | Parametrizar el período para reprocesos manuales                 | flexibilidad operacional                       |
-
----
-
-## 10. Licencia
-
-DMC © 2025 — Miguelangel / DMC Institute
-Se permite uso comercial y modificación bajo los términos de la licencia.
 
